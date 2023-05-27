@@ -2,8 +2,8 @@
 This is the solutions to 8 week SQL challenge.  
 
 ## Case Studies
-- [Case Study #1: Danny's Diner](#case-study-1-dannys-diner)
-- [Case Study #2: Pizza Runner](#case-study-2-pizza-runner)
+- [Case Study #1: Danny's Diner](#Case Study #1 - Danny's Diner)
+- [Case Study #2: Pizza Runner]()
 - Work in progress  
       <img src="https://github.com/Praneetbond/8_week_SQL_Challenge/assets/126821894/7b357fea-5398-49cf-adaf-25a25262faa6.png" alt="Image" width="30" hight="30">
 
