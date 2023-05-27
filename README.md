@@ -4,7 +4,7 @@ This is the solutions to 8 week SQL challenge.
 ## Chapters: Case Studies
 - [Case Study #1: Danny's Diner](#case-study-1-dannys-diner)
 - [Case Study #2: Pizza Runner](#case-study-2-pizza-runner)
-- Work in progress <![image](https://github.com/Praneetbond/8_week_SQL_Challenge/assets/126821894/7b357fea-5398-49cf-adaf-25a25262faa6) alt="Image" width="10" hight="10">
+- Work in progress ![image](https://github.com/Praneetbond/8_week_SQL_Challenge/assets/126821894/7b357fea-5398-49cf-adaf-25a25262faa6 width="10" hight="10") 
 
 ***
 
