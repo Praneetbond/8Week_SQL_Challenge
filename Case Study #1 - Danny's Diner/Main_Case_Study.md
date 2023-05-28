@@ -1,4 +1,5 @@
 # Case Study #1: Danny’s Diner
+
 ## Main Case study:
 
 ### Q1. What is the total amount each customer spent at the restaurant?
