@@ -2,7 +2,7 @@
 This is the solutions to 8 week SQL challenge.  
 
 ## Case Studies
-- [Case Study #1 - Danny's Diner](https://github.com/Praneetbond/8_week_SQL_Challenge/tree/bc96ccdcb3045ae5372f136f5ce670352aa2854e/Case%20Study%20%231%20-%20Danny's%20Diner)
+- [Case Study #1 - Danny's Diner](https://github.com/Praneetbond/8Week_SQL_Challenge/tree/be05f2ea0d01b35b9bd6adc39498c4ae63355975/Case%20Study%20%231%20-%20Danny's%20Diner)
 - [Case Study #2: Pizza Runner](https://github.com/Praneetbond/8_week_SQL_Challenge/tree/d49485ad24ff1ae25d915f7e48436b612b23de7a/Case%20Study%20%232%20-%20Pizza%20Runner)
 - Work in progress  
       <img src="https://github.com/Praneetbond/8Week_SQL_Challenge/assets/126821894/4407f6f7-62dc-440f-b134-a70f23aabec9" alt="Image" width="30" hight="30">
