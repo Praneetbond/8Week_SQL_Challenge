@@ -210,7 +210,9 @@ where
 ```` 
 
 ### 9. How many days on average does it take for a customer to an annual plan from the day they join Foodie-Fi?
-```` sql with update_plan as (
+```` sql 
+with update_plan as 
+(
   select 
     customer_id, 
     plan_name, 
@@ -237,7 +239,9 @@ where
 ```` 
 
 ### 10. Can you further breakdown this average value into 30 day periods (i.e. 0-30 days, 31-60 days etc)
-```` sql with update_plan as (
+```` sql 
+with update_plan as 
+(
   select 
     customer_id, 
     plan_name, 
@@ -298,7 +302,9 @@ order by
 ```` 
 
 ### 11. How many customers downgraded from a pro monthly to a basic monthly plan in 2020?
-```` sql with record_cte as (
+```` sql 
+with record_cte as 
+  (
   select 
     customer_id, 
     plan_name, 
