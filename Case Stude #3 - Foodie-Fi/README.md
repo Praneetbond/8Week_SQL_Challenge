@@ -25,7 +25,7 @@
  10. Can you further breakdown this average value into 30 day periods (i.e. 0-30 days, 31-60 days etc)
  11. How many customers downgraded from a pro monthly to a basic monthly plan in 2020?
 
-### C. Challenge Payment Question (Work in Progress)
+### C. Challenge Payment Question
 #### The Foodie-Fi team wants you to create a new payments table for the year 2020 that includes amounts paid by each customer in the subscriptions table with the following requirements:
 
 - monthly payments always occur on the same day of month as the original start_date of any monthly paid plan
