@@ -36,7 +36,7 @@ For this multi-part challenge question - you have been requested to generate the
 
 Using all of the data available - how much data would have been required for each option on a monthly basis?
 
-#### D. Extra Challenge (Work in Progress)
+### D. Extra Challenge (Work in Progress)
 Data Bank wants to try another option which is a bit more difficult to implement - they want to calculate data growth using an interest calculation, just like in a traditional savings account you might have with a bank.
 
 If the annual interest rate is set at 6% and the Data Bank team wants to reward its customers by increasing their data allocation based off the interest calculated on a daily basis at the end of each day, how much data would be required for this option on a monthly basis?
