@@ -14,7 +14,7 @@ This is the solutions to 8 week SQL challenge.
 
 > [Case Study #6: Clique Bait](https://github.com/Praneetbond/8Week_SQL_Challenge/tree/84c94bad7939f8f3f5e613dd9bbf17a71b413a7b/Case%20Study%20%236%20-%20Clique%20Bait)
 
-> [Case Study #7: Balanced Tree Clothing Co.](https://github.com/Praneetbond/8Week_SQL_Challenge/tree/76738408af9eaea2abb0532ddc3a5aaa3fb32f59/Case%20Study%20%237%20-%20Balanced%20Tree%20Clothing%20Co.)
+> [Case Study #7: Balanced Tree Clothing Co.](https://github.com/Praneetbond/8Week_SQL_Challenge/tree/5456fce7c6ff36be65f61e6bf0d14770047ca896/Case%20Study%20%237%20-%20Balanced%20Tree%20Clothing%20Co.)
 
 __Work in progress...__
 
